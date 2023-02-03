@@ -9,8 +9,8 @@ Self-hosting applications is always exciting and it's great to hear about new an
 - 🔭 I’m currently working on improving my Python and network automation skills
 - 🌱 I’m currently learning about managing networks with Nautobot
 - 👯 I’m looking to collaborate on networking automation, Python, and docker projects
-- 🤔 I’m looking for fun new self-hosted/docker containers/images
 - 😄 I'm excited to help work on open source projects. Let me know if I can help!
+- 🔎 I’m looking for fun new self-hosted/docker containers/images
 - 💬 Ask me about anything networking or Python
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=f5df6c)
