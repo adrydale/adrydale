@@ -20,4 +20,6 @@ Self-hosting applications is always exciting and it's great to hear about new an
 ![Azure DevOps](https://img.shields.io/badge/-ADO-000?&logo=AzureDevOps&color=3396d6)
 ![D&D](https://img.shields.io/badge/-D%26D-000?&logo=dungeonsanddragons&color=f2000a)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrydale&theme=gotham)
+
 [![Profile last updated](https://img.shields.io/github/last-commit/adrydale/adrydale/main?label=Last%20updated&style=flat)](https://github.com/adrydale/adrydale/commits)
